@@ -31,6 +31,9 @@ Then, install dependencies
 Edit `code-snippet.py` with the parameters of your repository and run.
 
 
+![Code Snippet](imgs/code-snippet.png "Code Snippet result")
+
+
 ### Post a Summary PR comment
 
 
