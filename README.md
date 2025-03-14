@@ -26,6 +26,18 @@ Then, install dependencies
 
 ```
 
+## Auth
+
+For now, this code uses a personal token (see above). For code
+snippet, an oauth application is required.
+
+In other words, server-side capabilities (e.g. pull requests
+summary or file comments) should use a user-token. Code Snippets
+should use an oauth app so that the code fetched is
+accessible to the logged-in user.
+
+## Capabilities
+
 ### Get a code snippet
 
 Edit `code-snippet.py` with the parameters of your repository and run.
